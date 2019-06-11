@@ -1,0 +1,21 @@
+.full-page {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;   
+    }
+    .first {
+      background-color: #56debc;
+    }
+    .second{
+      background-color: #2e92cf; 
+    }
+    .third{
+      background-color: #8d8f8e; 
+    }
+    
+  

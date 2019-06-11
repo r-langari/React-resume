@@ -1,0 +1,13 @@
+.AboutTitle {
+    font-family: 'Corben', cursive;
+    color: #282c34
+  }
+
+ .Aboutcontent {
+font-family: 'Corben', cursive;
+padding-left: 200pt;
+padding-right: 200pt;
+text-align: justify;
+line-height: 2;
+color: aliceblue;
+}

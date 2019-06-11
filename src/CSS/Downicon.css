@@ -1,0 +1,12 @@
+.Downicon{
+                        display: flex;
+                        flex-Direction: row;
+                        justify-content: center;
+                        align-items: center;
+                        margin-top: -34px;
+                        transform: translateY(-45px)
+}
+
+.scale:hover{   
+    transform: scale(1.2);
+}

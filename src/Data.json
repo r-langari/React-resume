@@ -1,0 +1,95 @@
+{
+    
+    "section" :[
+        {
+          "title": "Home",
+    "mainTitle": "Hello, Im  Roohollah!",
+    "subTitle": "Beginner Programmer | MotionGraph Designer",
+    "links" :{
+        "linkedin": "https://www.linkedin.com/in/roohollah-langari-143885112",
+        "stackoverflow" : "https://stackoverflow.com/story/r.langari",
+        "github" : "https://github.com/r-langari"
+        },
+        "Location": "HomeLocation"
+    },
+        {
+            "title": "About",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "I am 29 years old ... <br/>In college i majored in software engineering and recently succeeded to got my M.S certification <br/> now i'm trying to learn web and mobile programming so at first i started with 'React' and this is my first project :)"  
+                }
+                
+            ],
+            "Location": "AboutLocation"
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "Images/ae_logo.png",
+                        "title": "After Effects",
+                        "border": "primary"
+                        
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "Images/html_logo.png",
+                        "title": "HTML",
+                        "border": "danger"
+                        
+                        
+
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "Images/css_logo.png",
+                        "title": "CSS",
+                        "border": "dark"
+                        
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "Images/react_logo.png",
+                        "title": "React",
+                        "border":"info"        
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image": "Images/java_logo.png",
+                        "title": "Java",
+                        "border": "warning "
+                        
+                        
+                    }
+                }            
+                
+            ],
+            "Location": "SkillLocation"
+        }
+    ] ,
+    "themeIcon": {
+        
+        "title": "Theme",
+        "icon": "Images/changeTheme.png"
+    
+},
+    "downIcon": {
+        "title": "Down",
+        "icon": "Images/arrowDown.png"
+    },
+    "topIcon": {
+        "title": "Top",
+        "icon": "Images/top.png"
+    }
+}

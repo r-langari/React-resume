@@ -1,0 +1,32 @@
+.theme1{
+    background-color: #cc307d;
+}
+.theme2{
+    background-color: #f3b568;
+}
+.theme3{
+    background-color: #56debc;
+}
+.theme4{
+    background-color: #e4f082;
+}
+.theme4 h1{
+    color:#474d56 !important; 
+}
+.theme4 h4{
+    color:#474d56 !important; 
+}
+.theme5{
+    background-color: #2e92cf;
+}
+.theme5 h1{
+    color: honeydew !important; 
+}
+.theme6{
+    background-color: #3e3e3f;
+}
+.theme6 h1{
+    color: #d91e4e !important; 
+}
+
+
